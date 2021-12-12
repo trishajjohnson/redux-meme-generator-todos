@@ -1,0 +1,34 @@
+form {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin: 5px;
+}
+
+img {
+    width: 300px;
+}
+
+h3 {
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    width: 300px;
+}
+
+.memeStyles {
+    position: relative;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+.h3Top {
+    top: 2px;
+}
+
+.h3Bot {
+    bottom: 22px;   
+}
